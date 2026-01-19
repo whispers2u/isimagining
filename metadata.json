@@ -1,0 +1,7 @@
+{
+  "name": "ImagineSaaS - Image AI & n8n Hub",
+  "description": "Une interface SaaS premium pour la génération d'images utilisant Gemini et permettant l'intégration directe avec des workflows n8n.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
